@@ -1,0 +1,22 @@
+ls
+
+cd site
+
+core .
+
+clear
+
+git log
+
+clear
+
+git add .
+
+git status
+
+git commit -m  "se agrego archivo js"
+
+git log --online
+
+clear
+
