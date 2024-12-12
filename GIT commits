@@ -20,3 +20,30 @@ git log --online
 
 clear
 
+git status
+
+git add index.js
+
+git status
+
+git commit --amnd --no-edit
+
+clear
+
+git log --online
+
+git log --oneline
+
+git commit --amnd --no-edit
+
+clear
+
+git log --oneline
+
+git commit --amend -m "Se agrego archivo Index.js"
+
+git log --oneline
+
+clear
+
+
